@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html" charset="windows-1251" />
-<title>Personal site</title>
-<meta name="keywords" content="simple, grid, theme, free templates, web design, one page layout, slategray, steelblue, , CSS, HTML" />
-<meta name="description" content="Simple Grid is a one-page website template provided by .com" />
-<link href="css/style.css" type="text/css" rel="stylesheet"/>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <title>Personal site</title>
+    <meta name="keywords" content="simple, grid, theme, free templates, web design, one page layout, slategray, steelblue, , CSS, HTML" />
+    <meta name="description" content="Simple Grid is a one-page website template provided by .com" />
+    <link href="css/style.css" type="text/css" rel="stylesheet"/>
 
-</head>   
+</head>
 <body>
 
 <div id="wrapper">
@@ -22,22 +22,22 @@
         include 'include/menu.php';
         ?>
     </div>
-    
+
     <div id="main">
-    	<div id="home" class="main_box">
-        	<h1>Радий Вас бачити на моєму навчальному полігоні</h1>
-        	<div class="col col_23">
+        <div id="home" class="main_box">
+            <h1>Р Р°РґРёР№ Р’Р°СЃ Р±Р°С‡РёС‚Рё РЅР° РјРѕС”РјСѓ РЅР°РІС‡Р°Р»СЊРЅРѕРјСѓ РїРѕР»С–РіРѕРЅС–</h1>
+            <div class="col col_23">
                 <img src="images/image_01.jpg" class="img_frame" alt="image"  height="200px" width="400px"/>
-                <p><em>На данному сайті я плану відпрацьовувати навички Web-розробника. Тому в перспективы вид ы функцыональнысть даного сайту буде змінюватися</em></p>
-                <p>Веб-розробка — процес створення веб-сайтів або веб-додатків. Основними етапами процесу є веб-дизайн, верстка сторінок, програмування для веб на стороні клієнта і сервера, а також конфігурування веб-сервера.</p>
+                <p><em>РќР° РґР°РЅРЅРѕРјСѓ СЃР°Р№С‚С– СЏ РїР»Р°РЅСѓ РІС–РґРїСЂР°С†СЊРѕРІСѓРІР°С‚Рё РЅР°РІРёС‡РєРё Web-СЂРѕР·СЂРѕР±РЅРёРєР°. РўРѕРјСѓ РІ РїРµСЂСЃРїРµРєС‚РёРІС‹ РІРёРґ С‹ С„СѓРЅРєС†С‹РѕРЅР°Р»СЊРЅС‹СЃС‚СЊ РґР°РЅРѕРіРѕ СЃР°Р№С‚Сѓ Р±СѓРґРµ Р·РјС–РЅСЋРІР°С‚РёСЃСЏ</em></p>
+                <p>Р’РµР±-СЂРѕР·СЂРѕР±РєР° вЂ” РїСЂРѕС†РµСЃ СЃС‚РІРѕСЂРµРЅРЅСЏ РІРµР±-СЃР°Р№С‚С–РІ Р°Р±Рѕ РІРµР±-РґРѕРґР°С‚РєС–РІ. РћСЃРЅРѕРІРЅРёРјРё РµС‚Р°РїР°РјРё РїСЂРѕС†РµСЃСѓ С” РІРµР±-РґРёР·Р°Р№РЅ, РІРµСЂСЃС‚РєР° СЃС‚РѕСЂС–РЅРѕРє, РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ РґР»СЏ РІРµР± РЅР° СЃС‚РѕСЂРѕРЅС– РєР»С–С”РЅС‚Р° С– СЃРµСЂРІРµСЂР°, Р° С‚Р°РєРѕР¶ РєРѕРЅС„С–РіСѓСЂСѓРІР°РЅРЅСЏ РІРµР±-СЃРµСЂРІРµСЂР°.</p>
                 <div class="cleaner h40"></div>
-                <h3>Основні етапи веб-розробки</h3>
+                <h3>РћСЃРЅРѕРІРЅС– РµС‚Р°РїРё РІРµР±-СЂРѕР·СЂРѕР±РєРё</h3>
                 <ul class="tmo_list">
                     <?php
-                    $etap_array = array("Проектування сайту або веб-додатки (збір і аналіз вимог розробка Технічного завдання, проектування Інтерфейс користувача);",
-                        "Розробка креативної концепції сайту;", "Створення дизайн-концепції сайту;","Створення дизайн-концепції сайту;",
-                        "Верстка сторінок і дизайнів;", "Програмування (розробка функціональних інструментів) або інтеграція в систему управління вмістом (CMS);",
-                        "Оптимізація і розміщення матеріалів сайту;", "Тестування та внесення корегувань;", "Відкриття проекту на хостингу;", "Обслуговування працюючого сайту або його програмної основи.");
+                    $etap_array = array("РџСЂРѕРµРєС‚СѓРІР°РЅРЅСЏ СЃР°Р№С‚Сѓ Р°Р±Рѕ РІРµР±-РґРѕРґР°С‚РєРё (Р·Р±С–СЂ С– Р°РЅР°Р»С–Р· РІРёРјРѕРі СЂРѕР·СЂРѕР±РєР° РўРµС…РЅС–С‡РЅРѕРіРѕ Р·Р°РІРґР°РЅРЅСЏ, РїСЂРѕРµРєС‚СѓРІР°РЅРЅСЏ Р†РЅС‚РµСЂС„РµР№СЃ РєРѕСЂРёСЃС‚СѓРІР°С‡Р°);",
+                        "Р РѕР·СЂРѕР±РєР° РєСЂРµР°С‚РёРІРЅРѕС— РєРѕРЅС†РµРїС†С–С— СЃР°Р№С‚Сѓ;", "РЎС‚РІРѕСЂРµРЅРЅСЏ РґРёР·Р°Р№РЅ-РєРѕРЅС†РµРїС†С–С— СЃР°Р№С‚Сѓ;","РЎС‚РІРѕСЂРµРЅРЅСЏ РґРёР·Р°Р№РЅ-РєРѕРЅС†РµРїС†С–С— СЃР°Р№С‚Сѓ;",
+                        "Р’РµСЂСЃС‚РєР° СЃС‚РѕСЂС–РЅРѕРє С– РґРёР·Р°Р№РЅС–РІ;", "РџСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ (СЂРѕР·СЂРѕР±РєР° С„СѓРЅРєС†С–РѕРЅР°Р»СЊРЅРёС… С–РЅСЃС‚СЂСѓРјРµРЅС‚С–РІ) Р°Р±Рѕ С–РЅС‚РµРіСЂР°С†С–СЏ РІ СЃРёСЃС‚РµРјСѓ СѓРїСЂР°РІР»С–РЅРЅСЏ РІРјС–СЃС‚РѕРј (CMS);",
+                        "РћРїС‚РёРјС–Р·Р°С†С–СЏ С– СЂРѕР·РјС–С‰РµРЅРЅСЏ РјР°С‚РµСЂС–Р°Р»С–РІ СЃР°Р№С‚Сѓ;", "РўРµСЃС‚СѓРІР°РЅРЅСЏ С‚Р° РІРЅРµСЃРµРЅРЅСЏ РєРѕСЂРµРіСѓРІР°РЅСЊ;", "Р’С–РґРєСЂРёС‚С‚СЏ РїСЂРѕРµРєС‚Сѓ РЅР° С…РѕСЃС‚РёРЅРіСѓ;", "РћР±СЃР»СѓРіРѕРІСѓРІР°РЅРЅСЏ РїСЂР°С†СЋСЋС‡РѕРіРѕ СЃР°Р№С‚Сѓ Р°Р±Рѕ Р№РѕРіРѕ РїСЂРѕРіСЂР°РјРЅРѕС— РѕСЃРЅРѕРІРё.");
                     foreach ($etap_array as $etap){
                         echo "<li>".$etap."</li>";
                     }
@@ -45,9 +45,9 @@
                     ?>
 
                 </ul>
-			</div>
+            </div>
             <div class="col col_13 no_margin_right">
-            	<h3>Технології WEB</h3>
+                <h3>РўРµС…РЅРѕР»РѕРіС–С— WEB</h3>
                 <div id="technolog">
                     <ul>
                         <?php
@@ -59,28 +59,28 @@
 
 
                     </ul>
-				</div>
+                </div>
                 <blockquote>
-					<p>З допомогою PHP можна зробити все крім дітей, і то не факт</p>
-					<cite>Habr - <span>Web Designer</span></cite>
-				</blockquote>
-                
-                <div class="cleaner h40"></div>
-                
-<!--            	<div  clas="twitter_post"><h3>Twitter news</h3>
+                    <p>Р— РґРѕРїРѕРјРѕРіРѕСЋ PHP РјРѕР¶РЅР° Р·СЂРѕР±РёС‚Рё РІСЃРµ РєСЂС–Рј РґС–С‚РµР№, С– С‚Рѕ РЅРµ С„Р°РєС‚</p>
+                    <cite>Habr - <span>Web Designer</span></cite>
+                </blockquote>
 
-                    <a class="twitter-timeline" data-width="300" data-height="300" data-link-color="#2B7BB9" href="https://twitter.com/habrahabr">Tweets by habrahabr</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>-->
+                <div class="cleaner h40"></div>
+
+                <!--            	<div  clas="twitter_post"><h3>Twitter news</h3>
+
+                                    <a class="twitter-timeline" data-width="300" data-height="300" data-link-color="#2B7BB9" href="https://twitter.com/habrahabr">Tweets by habrahabr</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>-->
             </div>
             <div class="cleaner"></div>
 
-		</div> <!-- END of home -->
+        </div> <!-- END of home -->
     </div> <!-- END of -->
-    
+
     <div id="footer">
-    	Copyright 2016
-    </div> 
-</div> 
+        Copyright 2016
+    </div>
+</div>
 
 </body>
 </html>
